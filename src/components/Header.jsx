@@ -1,4 +1,5 @@
 import React from 'react'
+import '../../public/dp.jpeg'
 
 export const Header = () => {
   return (
